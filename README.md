@@ -13,6 +13,7 @@ code:
 using namespase std;
  int main()
  {
+    cout << "this" << endl;
     cout << "something" << endl;
     return 0;
  }
